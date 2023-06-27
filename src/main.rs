@@ -14,5 +14,9 @@ struct App;
 impl Component for App {
     fn render(&self, _cx: &mut Context) -> Element {
         // The app's main UI goes here
+        // For now, let's just display a simple message
+        div()
+            .text("Welcome to ToDoWin!")
+            .into()
     }
 }
