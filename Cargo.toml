@@ -1,0 +1,8 @@
+[package]
+name = "todowin_app"
+version = "0.1.0"
+authors = ["Tamok <nautiluce@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+dioxus = "0.1.0"
