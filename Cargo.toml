@@ -5,4 +5,4 @@ authors = ["Tamok <nautiluce@gmail.com>"]
 edition = "2021"
 
 [dependencies]
-dioxus = "0.1.0"
+dioxus = "0.1.8"
